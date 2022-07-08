@@ -1,0 +1,2 @@
+# DetailsMonster
+A Typecho Theme
